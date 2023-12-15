@@ -1,2 +1,2 @@
 const who = require('@mono/lib-c');
-module.exports = 'Hi ' + who;
+module.exports = 'Hola ' + who;
