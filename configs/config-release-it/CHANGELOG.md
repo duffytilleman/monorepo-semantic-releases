@@ -1,5 +1,12 @@
 
 
+## [0.2.1](https://github.com/duffytilleman/monorepo-semantic-releases/compare/@mono/config-release-it-v0.2.0...@mono/config-release-it-v0.2.1) (2023-12-15)
+
+
+### Bug Fixes
+
+* disable mvm-update ([41fa673](https://github.com/duffytilleman/monorepo-semantic-releases/commit/41fa6739bb8e5a6f9c74d2540f7b6dde7228429b))
+
 ## 0.2.0 (2023-12-15)
 
 
