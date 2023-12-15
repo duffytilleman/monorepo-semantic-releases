@@ -32,7 +32,7 @@ module.exports = {
   },
   hooks: {
     'before:git:release': [
-      'mvm-update',
+      // 'mvm-update',
       'git add --all',
     ],
   },
