@@ -1,5 +1,12 @@
 
 
+## [0.3.1](https://github.com/duffytilleman/monorepo-semantic-releases/compare/@mono/lib-a-v0.3.0...@mono/lib-a-v0.3.1) (2023-12-15)
+
+
+### Bug Fixes
+
+* update greeting in lib-a ([437a12c](https://github.com/duffytilleman/monorepo-semantic-releases/commit/437a12c47f398270b4625a5a74f5b2be60b8dcc3))
+
 ## 0.3.0 (2023-12-15)
 
 
