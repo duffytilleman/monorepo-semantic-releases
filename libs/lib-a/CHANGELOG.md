@@ -1,5 +1,12 @@
 
 
+## [0.3.2](https://github.com/duffytilleman/monorepo-semantic-releases/compare/@mono/lib-a-v0.3.1...@mono/lib-a-v0.3.2) (2023-12-15)
+
+
+### Bug Fixes
+
+* update lib-a ([4ca4c1d](https://github.com/duffytilleman/monorepo-semantic-releases/commit/4ca4c1da67d9cb9539e1f7440f451ea0dec065a7))
+
 ## [0.3.1](https://github.com/duffytilleman/monorepo-semantic-releases/compare/@mono/lib-a-v0.3.0...@mono/lib-a-v0.3.1) (2023-12-15)
 
 
