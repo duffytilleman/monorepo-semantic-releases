@@ -1,5 +1,12 @@
 
 
+## [0.4.0](https://github.com/duffytilleman/monorepo-semantic-releases/compare/@mono/app-a-v0.3.0...@mono/app-a-v0.4.0) (2023-12-15)
+
+
+### Features
+
+* **lib-a:** released version v0.3.1 [no ci] ([b0a5c67](https://github.com/duffytilleman/monorepo-semantic-releases/commit/b0a5c6735743f4887fe20ebbccb241f3b15135db))
+
 ## 0.3.0 (2023-12-15)
 
 
